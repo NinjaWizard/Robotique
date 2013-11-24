@@ -1,0 +1,10 @@
+c:\users\ninjawizard\documents\visual studio 2012\Projects\RobotWithInterface\RobotWithInterface\bin\Debug\RobotWithInterface.exe.config
+c:\users\ninjawizard\documents\visual studio 2012\Projects\RobotWithInterface\RobotWithInterface\bin\Debug\RobotWithInterface.exe
+c:\users\ninjawizard\documents\visual studio 2012\Projects\RobotWithInterface\RobotWithInterface\bin\Debug\RobotWithInterface.pdb
+c:\users\ninjawizard\documents\visual studio 2012\Projects\RobotWithInterface\RobotWithInterface\obj\Debug\RobotWithInterface.csprojResolveAssemblyReference.cache
+c:\users\ninjawizard\documents\visual studio 2012\Projects\RobotWithInterface\RobotWithInterface\obj\Debug\RobotWithInterface.Properties.Resources.resources
+c:\users\ninjawizard\documents\visual studio 2012\Projects\RobotWithInterface\RobotWithInterface\obj\Debug\RobotWithInterface.csproj.GenerateResource.Cache
+c:\users\ninjawizard\documents\visual studio 2012\Projects\RobotWithInterface\RobotWithInterface\obj\Debug\RobotWithInterface.exe
+c:\users\ninjawizard\documents\visual studio 2012\Projects\RobotWithInterface\RobotWithInterface\obj\Debug\RobotWithInterface.pdb
+c:\users\ninjawizard\documents\visual studio 2012\Projects\RobotWithInterface\RobotWithInterface\obj\Debug\RobotWithInterface.Form1.resources
+c:\users\ninjawizard\documents\visual studio 2012\Projects\RobotWithInterface\RobotWithInterface\bin\Debug\Sicily.Gps.dll
